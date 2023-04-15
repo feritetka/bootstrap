@@ -1,0 +1,12 @@
+:root{
+    --primary: goldenrod;
+}
+.text-primary{
+    color: var(--primary)!important;
+}
+.bg-primary{
+    background-color: var(--primary) !important;
+}
+.link-primary{
+    color: var(--primary) !important;
+}
